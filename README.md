@@ -1,5 +1,7 @@
 # 📊 Analysis of US County Health Index Predictors
 
+https://jingyu-ruan.github.io/stat-4770-intro-to-python-data-sci-final-project/
+
 This project was completed for the **STAT 4770/7770: An Introduction to Python for Data Science** course at the Wharton School, University of Pennsylvania.
 
 ## 📝 Project Overview
